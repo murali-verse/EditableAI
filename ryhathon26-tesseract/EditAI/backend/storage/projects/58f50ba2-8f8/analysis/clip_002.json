@@ -1,0 +1,20 @@
+{
+  "clip_id": "clip_002",
+  "filename": "upload_002_vid_5cbcc9_action_broll.mp4",
+  "duration": 10.0,
+  "summary": "upload_002_vid_5cbcc9_action_broll.mp4: 10.0s, 1 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "transcript": "",
+      "visual_summary": "Scene 1: Visual B-Roll (Subtle Motion, Smooth Activity)",
+      "camera_movement": "Subtle Motion",
+      "story_role": "broll",
+      "quality": 0.93,
+      "detected_objects": []
+    }
+  ],
+  "facts": [],
+  "cached": false
+}

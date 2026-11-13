@@ -1,0 +1,46 @@
+{
+  "story_summary": "Cohesive editorial story synthesized across 6 source clips according to brief 'Create a cohesive narrative highlight edit that establishes the speaker intro, cuts to dynamic action b-roll, delivers the core message, and concludes with a scenic outro.'. The sequence opens with an establishing dialogue hook, transitions into dynamic action B-roll for pacing, articulates the core narrative message, and concludes with a scenic outro. 1 alternative/redundant segments were flagged for editorial review.",
+  "ordered_segments": [
+    {
+      "clip_id": "clip_001",
+      "start": 0.0,
+      "end": 5.0,
+      "decision": "keep",
+      "reason": "Strong opening hook from upload_001_vid_d9d5d4_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4: establishes context and theme.",
+      "story_role": "introduction"
+    },
+    {
+      "clip_id": "clip_002",
+      "start": 53.3,
+      "end": 57.8,
+      "decision": "keep",
+      "reason": "Dynamic action sequence from upload_002_vid_9a1228_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4: accelerates visual pacing.",
+      "story_role": "action_broll"
+    },
+    {
+      "clip_id": "clip_001",
+      "start": 18.2,
+      "end": 23.2,
+      "decision": "keep",
+      "reason": "Core value proposition from upload_001_vid_d9d5d4_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4: delivers primary narrative message.",
+      "story_role": "core_message"
+    },
+    {
+      "clip_id": "clip_006",
+      "start": 610.55,
+      "end": 615.05,
+      "decision": "keep",
+      "reason": "Atmospheric closing sequence from upload_006_vid_0f9604_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4: provides visual and narrative closure.",
+      "story_role": "outro"
+    }
+  ],
+  "review_items": [
+    {
+      "clip_id": "clip_004",
+      "start": 0.0,
+      "end": 0.67,
+      "reason": "Very short segment (0.67s) in upload_004_vid_0e89ab_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4; flagged for duration review.",
+      "story_role": "action_broll"
+    }
+  ]
+}

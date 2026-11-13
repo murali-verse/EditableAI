@@ -1,0 +1,22 @@
+{
+  "clip_id": "clip_003",
+  "filename": "upload_003_vid_05da91_scenic_outro.mp4",
+  "duration": 10.0,
+  "summary": "upload_003_vid_05da91_scenic_outro.mp4: 10.0s, 1 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "transcript": "",
+      "visual_summary": "Scene 1: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "speaker_anchor",
+      "quality": 0.85,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    }
+  ],
+  "facts": [],
+  "cached": false
+}

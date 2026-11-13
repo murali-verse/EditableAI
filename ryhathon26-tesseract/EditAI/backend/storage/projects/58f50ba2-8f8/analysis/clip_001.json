@@ -1,0 +1,20 @@
+{
+  "clip_id": "clip_001",
+  "filename": "upload_001_vid_a691a9_keynote_speaker.mp4",
+  "duration": 12.0,
+  "summary": "upload_001_vid_a691a9_keynote_speaker.mp4: 12.0s, 1 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "transcript": "",
+      "visual_summary": "Scene 1: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "speaker_anchor",
+      "quality": 0.85,
+      "detected_objects": []
+    }
+  ],
+  "facts": [],
+  "cached": false
+}

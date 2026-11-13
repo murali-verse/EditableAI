@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_001",
+  "filename": "upload_001_vid_d9d5d4_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4",
+  "duration": 123.599,
+  "summary": "upload_001_vid_d9d5d4_WhatsApp_Video_2026-10-29_at_7.59.24_PM.mp4: 123.7s, 14 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.67,
+      "transcript": "Your brain is the most powerful weapon in the world",
+      "visual_summary": "Scene 1: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 7.67,
+      "end": 18.2,
+      "transcript": "Your brain is the most powerful weapon in the world Once you put away your phones and your computers and all that we have nowadays, that's great We're up to date, you know, but your brain is the only thing you have when you're going through depression",
+      "visual_summary": "Scene 2: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 18.2,
+      "end": 31.4,
+      "transcript": "We're up to date, you know, but your brain is the only thing you have when you're going through depression When you're going through hard times, you're going through death real life You can't Google that man",
+      "visual_summary": "Scene 3: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 31.4,
+      "end": 37.9,
+      "transcript": "You can't Google that man You're alone You're alone, you may have a shrink, you're going to, you may have a best friend you're going to But there's 24 hours in the day where you're alone in this brain and your brain is talking to you in all kinds of ways",
+      "visual_summary": "Scene 4: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "speaker_anchor",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 37.9,
+      "end": 44.47,
+      "transcript": "But there's 24 hours in the day where you're alone in this brain and your brain is talking to you in all kinds of ways",
+      "visual_summary": "Scene 5: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 44.47,
+      "end": 53.13,
+      "transcript": "But there's 24 hours in the day where you're alone in this brain and your brain is talking to you in all kinds of ways And it wants to control you, and pull you in these different pockets If you can't control your own brain and your brain controls you, you're",
+      "visual_summary": "Scene 6: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 53.13,
+      "end": 70.3,
+      "transcript": "If you can't control your own brain and your brain controls you, you're You've got to tell your brain where you want to go and how you want to go and how you want to get there You've got to control it, if not, it's over What existed for me was okay, man How am I going to make this work? And all I knew back then was hard work",
+      "visual_summary": "Scene 7: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 70.3,
+      "end": 78.8,
+      "transcript": "And all I knew back then was hard work The only way anything gets accomplished I saw I heard her back in those days, you got to work hard You got to work hard I'm not getting how to",
+      "visual_summary": "Scene 8: Visual B-Roll (Static Locked Shot, Smooth Activity)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 78.8,
+      "end": 87.23,
+      "transcript": "I'm not getting how to I can't get this paragraph I can't remember what the This paragraph to pass this test to get in the military Read again",
+      "visual_summary": "Scene 9: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene"
+      ]
+    },
+    {
+      "start": 87.23,
+      "end": 95.73,
+      "transcript": "Still not getting it, read again But if not getting it, write it out And that's how I started learning Okay, well, I can't I got to write out everything I do",
+      "visual_summary": "Scene 10: Visual B-Roll (Tilt Down, Smooth Activity)",
+      "camera_movement": "Tilt Down",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 95.73,
+      "end": 100.07,
+      "transcript": "I got to write out everything I do And then write it out again And write it out again And guess what happened?",
+      "visual_summary": "Scene 11: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 100.07,
+      "end": 104.27,
+      "transcript": "And guess what happened? I got it I got it I can't swim I'm negative buoyant",
+      "visual_summary": "Scene 12: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 104.27,
+      "end": 112.9,
+      "transcript": "I'm negative buoyant Go back again I can't swim Go back again Go back again Go back again I got it",
+      "visual_summary": "Scene 13: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene"
+      ]
+    },
+    {
+      "start": 112.9,
+      "end": 123.6,
+      "transcript": "I realized If I keep going back And going back And going back Until the sh- Just becomes Your mind will save Okay Look",
+      "visual_summary": "Scene 14: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    }
+  ],
+  "facts": [
+    "Your brain is the most powerful weapon in the world Once you put away your phones and your computers and all that we have nowadays, that's great We're up to date, you know, but your brain is the only thing you have when you're going through depression When you're going through hard times, you're going through death real life You can't Google that man You're alone You're alone, you may have a shrink, you're going to, you may have a best friend you're going to But there's 24 hours in the day where you're alone in this brain and your brain is talking to you in all kinds of ways And it wants to control you, and pull you in these different pockets If you can't control your own brain and your brain controls you, you're You've got to tell your brain where you want to go and how you want to go and how you want to get there You've got to control it, if not, it's over What existed for me was okay, man How am I going to make this work",
+    "And all I knew back then was hard work The only way anything gets accomplished I saw I heard her back in those days, you got to work hard You got to work hard I'm not getting how to I can't get this paragraph I can't remember what the This paragraph to pass this test to get in the military Read again Still not getting it, read again But if not getting it, write it out And that's how I started learning Okay, well, I can't I got to write out everything I do And then write it out again And write it out again And guess what happened",
+    "I got it I got it I can't swim I'm negative buoyant Go back again I can't swim Go back again Go back again Go back again I got it I realized If I keep going back And going back And going back Until the sh- Just becomes Your mind will save Okay Look"
+  ],
+  "cached": false
+}

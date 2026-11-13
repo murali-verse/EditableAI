@@ -1,0 +1,182 @@
+{
+  "clip_id": "clip_005",
+  "filename": "upload_005_vid_90743f_WhatsApp_Video_2026-10-29_at_8.14.58_PM.mp4",
+  "duration": 119.566,
+  "summary": "upload_005_vid_90743f_WhatsApp_Video_2026-10-29_at_8.14.58_PM.mp4: 119.6s, 14 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.37,
+      "transcript": "down to that nice mineral soil where nothing can burn.",
+      "visual_summary": "Scene 1: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 1.37,
+      "end": 12.13,
+      "transcript": "down to that nice mineral soil where nothing can burn. You can't burn dirt. So it has to be down that low, that literally is something in you, that's at the core of your soul.",
+      "visual_summary": "Scene 2: Dynamic Action Cutaway (Pan Right, High Energy)",
+      "camera_movement": "Pan Right",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 12.13,
+      "end": 25.83,
+      "transcript": "that's at the core of your soul. But you don't find it unless you spend a lot of time with what you want to be in life. I can't get that to you, right? You can't get it to somebody.",
+      "visual_summary": "Scene 3: Visual B-Roll (Static Locked Shot, Smooth Activity)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 25.83,
+      "end": 36.97,
+      "transcript": "When you find your true passion in life, and my passion for me, I'm like, oh, I want to be in that and give a Navy SEALs, or I don't give a shit. I want to serve my country. I cared about, I want to be someone that I'm proud of.",
+      "visual_summary": "Scene 4: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 36.97,
+      "end": 47.77,
+      "transcript": "I cared about, I want to be someone that I'm proud of. I want to look at myself in the mirror because I was so disappointed. That accountability mirror I talk about, I was so disappointed in what I saw every day.",
+      "visual_summary": "Scene 5: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 47.77,
+      "end": 52.2,
+      "transcript": "I was so disappointed in what I saw every day. I wanted everybody to love David Goggins.",
+      "visual_summary": "Scene 6: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 52.2,
+      "end": 56.6,
+      "transcript": "And a lot of people did.",
+      "visual_summary": "Scene 7: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 56.6,
+      "end": 58.8,
+      "transcript": "I didn't love myself. But I knew a lot of us wanted to find peace first.",
+      "visual_summary": "Scene 8: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "speaker_anchor",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 58.8,
+      "end": 63.1,
+      "transcript": "But I knew a lot of us wanted to find peace first. So people say, man, you always talk about this suffering",
+      "visual_summary": "Scene 9: Visual B-Roll (Tilt Down, Smooth Activity)",
+      "camera_movement": "Tilt Down",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 63.1,
+      "end": 69.53,
+      "transcript": "So people say, man, you always talk about this suffering and pain is, I'm at peace right now, because I went through that.",
+      "visual_summary": "Scene 10: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 69.53,
+      "end": 78.13,
+      "transcript": "You don't find peace first. If you do, Merry Christmas, more power to you, more power to you. I found peace on the opposite end of finding myself",
+      "visual_summary": "Scene 11: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 78.13,
+      "end": 91.03,
+      "transcript": "I found peace on the opposite end of finding myself and no one really finds himself without going through trial and tribulations, suffering, accountability, and accountability.",
+      "visual_summary": "Scene 12: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 91.03,
+      "end": 103.77,
+      "transcript": "suffering, accountability, and accountability. It's suffering. Being accountable every day for doing right for yourself, for the people next to you, it's miserable. It's hard. So, you know, even the smallest details.",
+      "visual_summary": "Scene 13: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 103.77,
+      "end": 119.57,
+      "transcript": "So, you know, even the smallest details.",
+      "visual_summary": "Scene 14: Visual B-Roll (Zoom Out / Pull, Smooth Activity)",
+      "camera_movement": "Zoom Out / Pull",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Focal Push"
+      ]
+    }
+  ],
+  "facts": [
+    "So it has to be down that low, that literally is something in you, that's at the core of your soul",
+    "I cared about, I want to be someone that I'm proud of",
+    "I want to look at myself in the mirror because I was so disappointed",
+    "That accountability mirror I talk about, I was so disappointed in what I saw every day",
+    "So people say, man, you always talk about this suffering and pain is, I'm at peace right now, because I went through that",
+    "If you do, Merry Christmas, more power to you, more power to you",
+    "Being accountable every day for doing right for yourself, for the people next to you, it's miserable"
+  ],
+  "cached": false
+}

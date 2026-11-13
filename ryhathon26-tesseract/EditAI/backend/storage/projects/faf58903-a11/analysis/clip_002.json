@@ -1,0 +1,171 @@
+{
+  "clip_id": "clip_002",
+  "filename": "upload_002_vid_9a1228_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4",
+  "duration": 121.466,
+  "summary": "upload_002_vid_9a1228_WhatsApp_Video_2026-10-29_at_8.02.53_PM.mp4: 121.5s, 13 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.77,
+      "transcript": "We're gonna figure it out, because he is not going to stop. It's not like I'm gonna try one more time. No, I'm gonna, it's just like, long clock goes off, boop, we're going back. I can't read right, we're going back.",
+      "visual_summary": "Scene 1: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 13.77,
+      "end": 27.07,
+      "transcript": "I can't read right, we're going back. I gave myself no way out, and my mind realized that. They said, okay, we're gonna adapt and overcome now. Like a lot of people say, try it hard.",
+      "visual_summary": "Scene 2: Dynamic Action Cutaway (Tilt Down, High Energy)",
+      "camera_movement": "Tilt Down",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 27.07,
+      "end": 33.73,
+      "transcript": "Like a lot of people say, try it hard. They, your mind knows, man. You know this guy's boop, me, man, this guy's lying. There's no truth behind it.",
+      "visual_summary": "Scene 3: Visual B-Roll (Subtle Motion, Smooth Activity)",
+      "camera_movement": "Subtle Motion",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 33.73,
+      "end": 44.53,
+      "transcript": "There's no truth behind it. When I was a Navy still training people, they were like, how are you there for 18 months? Their program was only six months long. You were in three hell weeks in one year. No one's ever done that, how did you do that?",
+      "visual_summary": "Scene 4: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 44.53,
+      "end": 48.87,
+      "transcript": "No one's ever done that, how did you do that? I talk about the new norm. When I lived in a $7 month place",
+      "visual_summary": "Scene 5: Speaker Anchor / Talking Head (Pan Left, Low Motion)",
+      "camera_movement": "Pan Left",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 48.87,
+      "end": 53.3,
+      "transcript": "When I lived in a $7 month place and I was growing up for a short period of time, I loved it.",
+      "visual_summary": "Scene 6: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "speaker_anchor",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 53.3,
+      "end": 61.87,
+      "transcript": "I didn't know you, I, I knew the difference. That was my norm. Once we moved out of that place, we moved to $236 a month place. I was like, and I'm never gonna go back",
+      "visual_summary": "Scene 7: Dynamic Action Cutaway (Zoom In / Push, High Energy)",
+      "camera_movement": "Zoom In / Push",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Focal Push"
+      ]
+    },
+    {
+      "start": 61.87,
+      "end": 66.13,
+      "transcript": "I was like, and I'm never gonna go back to that little piece of shit. But if you go back to a $7 month place",
+      "visual_summary": "Scene 8: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 66.13,
+      "end": 70.53,
+      "transcript": "But if you go back to a $7 month place",
+      "visual_summary": "Scene 9: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 70.53,
+      "end": 83.2,
+      "transcript": "and you realize this is where I live, that's all I got. Your mind says, Roger that, this is home. So when I was going to Navy still training for 18 months and going back to all the hard parts over and over again,",
+      "visual_summary": "Scene 10: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 83.2,
+      "end": 91.77,
+      "transcript": "and going back to all the hard parts over and over again, I told myself after the first time, I knew it was gonna be a long journey there. My body was breaking down.",
+      "visual_summary": "Scene 11: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 91.77,
+      "end": 108.6,
+      "transcript": "My body was breaking down. It was, it was just how it was going on. I said, you know what, this is my new norm. So my mind said, it's like going to work. Like, you go to work, you put your suit tie on? I go in the suffer every day. Every day suffering, being broken, duct taped my feet up, stretch fracture, shin splints,",
+      "visual_summary": "Scene 12: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 108.6,
+      "end": 121.47,
+      "transcript": "being broken. This is my new norm. And your mind says, if we're not broken, this ain't normal. We gotta be broken. So then your mind starts to get tougher and tougher in more counts.",
+      "visual_summary": "Scene 13: Dynamic Action Cutaway (Tilt Up, High Energy)",
+      "camera_movement": "Tilt Up",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": []
+    }
+  ],
+  "facts": [
+    "We're gonna figure it out, because he is not going to stop",
+    "No, I'm gonna, it's just like, long clock goes off, boop, we're going back",
+    "I can't read right, we're going back",
+    "They said, okay, we're gonna adapt and overcome now",
+    "You know this guy's boop, me, man, this guy's lying",
+    "When I was a Navy still training people, they were like, how are you there for 18 months",
+    "You were in three hell weeks in one year",
+    "When I lived in a $7 month place and I was growing up for a short period of time, I loved it"
+  ],
+  "cached": false
+}

@@ -1,0 +1,827 @@
+{
+  "clip_id": "clip_006",
+  "filename": "upload_006_vid_0f9604_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4",
+  "duration": 615.048,
+  "summary": "upload_006_vid_0f9604_WhatsApp_Video_2026-10-29_at_7.58.14_PM.mp4: 615.0s, 69 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.67,
+      "transcript": "Your brain is the most powerful weapon in the world",
+      "visual_summary": "Scene 1: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 7.67,
+      "end": 18.18,
+      "transcript": "Your brain is the most powerful weapon in the world Once you put away your phones and your computers and all that we have nowadays, that's great We're up to date, you know, but your brain is the only thing you have when you're going through depression",
+      "visual_summary": "Scene 2: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 18.18,
+      "end": 31.4,
+      "transcript": "We're up to date, you know, but your brain is the only thing you have when you're going through depression When you're going through hard times, you're going through death real life You can't Google that man",
+      "visual_summary": "Scene 3: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 31.4,
+      "end": 37.9,
+      "transcript": "You can't Google that man You're alone You're alone, you may have a shrink, you're going to, you may have a best friend you're going to But there's 24 hours in the day where you're alone in this brain and your brain is talking to you in all kinds of ways",
+      "visual_summary": "Scene 4: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "speaker_anchor",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 37.9,
+      "end": 44.48,
+      "transcript": "But there's 24 hours in the day where you're alone in this brain and your brain is talking to you in all kinds of ways",
+      "visual_summary": "Scene 5: Visual B-Roll (Subtle Motion, Smooth Activity)",
+      "camera_movement": "Subtle Motion",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 44.48,
+      "end": 53.12,
+      "transcript": "But there's 24 hours in the day where you're alone in this brain and your brain is talking to you in all kinds of ways And it wants to control you, and pull you in these different pockets If you can't control your own brain and your brain controls you, you're",
+      "visual_summary": "Scene 6: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 53.12,
+      "end": 70.3,
+      "transcript": "If you can't control your own brain and your brain controls you, you're You've got to tell your brain where you want to go and how you want to go and how you want to get there You've got to control it. If not, it's over What existed for me was okay, man How am I going to make this work? And all I knew back then was hard work",
+      "visual_summary": "Scene 7: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 70.3,
+      "end": 78.81,
+      "transcript": "And all I knew back then was hard work The only way anything gets accomplished I saw I heard her back in those days. You got to work hard You got to work hard. I'm not getting how to",
+      "visual_summary": "Scene 8: Visual B-Roll (Static Locked Shot, Smooth Activity)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 78.81,
+      "end": 87.22,
+      "transcript": "You got to work hard. I'm not getting how to I can't get this paragraph I can't remember what the This paragraph to pass this test to get in the military Read again",
+      "visual_summary": "Scene 9: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene"
+      ]
+    },
+    {
+      "start": 87.22,
+      "end": 95.73,
+      "transcript": "Still not getting it. Read again, but if not getting it right out and that's how I started learning Okay, well, I can't I got to write up everything I do and then write out again",
+      "visual_summary": "Scene 10: Visual B-Roll (Tilt Down, Smooth Activity)",
+      "camera_movement": "Tilt Down",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 95.73,
+      "end": 100.07,
+      "transcript": "Okay, well, I can't I got to write up everything I do and then write out again And write out again, and guess what happened? I got it. I got it. I can't swim. I'm negative buoyant",
+      "visual_summary": "Scene 11: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 100.07,
+      "end": 104.27,
+      "transcript": "And write out again, and guess what happened? I got it. I got it. I can't swim. I'm negative buoyant",
+      "visual_summary": "Scene 12: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 104.27,
+      "end": 112.91,
+      "transcript": "And write out again, and guess what happened? I got it. I got it. I can't swim. I'm negative buoyant Go back again. I can't swim. Go back again. Go back again. Go back again Go back again. I got it. I",
+      "visual_summary": "Scene 13: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene"
+      ]
+    },
+    {
+      "start": 112.91,
+      "end": 137.3,
+      "transcript": "Go back again. I got it. I Realize if I keep going back and going back and going back and till the Just becomes your mind would save Okay, we're gonna figure it out Because he is not going to stop It's not like I'm gonna try one more time. No, I'm gonna it's just like long clunk goes off We're going back. I can't read right we're going back. I gave myself no way out and my mind realized that it's okay",
+      "visual_summary": "Scene 14: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 137.3,
+      "end": 150.58,
+      "transcript": "We're going back. I can't read right we're going back. I gave myself no way out and my mind realized that it's okay We're gonna adapt and overcome now Like a lot of people say try and hard",
+      "visual_summary": "Scene 15: Dynamic Action Cutaway (Tilt Down, High Energy)",
+      "camera_movement": "Tilt Down",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 150.58,
+      "end": 157.26,
+      "transcript": "try and hard They your mind knows man, you know, this guy's bull me man. It's guys lying. There's no truth behind it",
+      "visual_summary": "Scene 16: Visual B-Roll (Zoom Out / Pull, Smooth Activity)",
+      "camera_movement": "Zoom Out / Pull",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Focal Push"
+      ]
+    },
+    {
+      "start": 157.26,
+      "end": 168.07,
+      "transcript": "They your mind knows man, you know, this guy's bull me man. It's guys lying. There's no truth behind it When I was a Navy still training people go, how are you there for 18 months? Their program is only six months long you were in three hell weeks in one year No one's ever done that. How did you do that? I?",
+      "visual_summary": "Scene 17: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 168.07,
+      "end": 172.41,
+      "transcript": "No one's ever done that. How did you do that? I? Talk about the new norm When I lived in the $7 month place and I was growing up for a short period of time. I loved it",
+      "visual_summary": "Scene 18: Speaker Anchor / Talking Head (Pan Left, Low Motion)",
+      "camera_movement": "Pan Left",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 172.41,
+      "end": 176.81,
+      "transcript": "When I lived in the $7 month place and I was growing up for a short period of time. I loved it I know you I know the different that was my norm",
+      "visual_summary": "Scene 19: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 176.81,
+      "end": 185.39,
+      "transcript": "I know you I know the different that was my norm Once we moved out of that place we moved to 236 dollar a month place I'm like and I never want to go back to that little piece of",
+      "visual_summary": "Scene 20: Dynamic Action Cutaway (Tilt Up, High Energy)",
+      "camera_movement": "Tilt Up",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene"
+      ]
+    },
+    {
+      "start": 185.39,
+      "end": 189.66,
+      "transcript": "I'm like and I never want to go back to that little piece of But if you go back",
+      "visual_summary": "Scene 21: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 189.66,
+      "end": 194.06,
+      "transcript": "But if you go back To a seven dollar month place",
+      "visual_summary": "Scene 22: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 194.06,
+      "end": 206.71,
+      "transcript": "And you realize this is where I live. That's all I got Your mind says Roger that. This is home So when I was going to Navy still training for 18 months And going back to all the hard parts over and over again",
+      "visual_summary": "Scene 23: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 206.71,
+      "end": 215.28,
+      "transcript": "And going back to all the hard parts over and over again I told myself after the first time I knew it was gonna be a long journey there. My body was breaking down",
+      "visual_summary": "Scene 24: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 215.28,
+      "end": 232.13,
+      "transcript": "I told myself after the first time I knew it was gonna be a long journey there. My body was breaking down It was it was just how it was going on. I see. You know what this is my new norm So my mind said it's like going to work like you go to work you put your suit tie on I'm going to suffer every day Every day suffering being broken duct tape my feet up stress fracture shin splints being broken",
+      "visual_summary": "Scene 25: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 232.13,
+      "end": 238.64,
+      "transcript": "Every day suffering being broken duct tape my feet up stress fracture shin splints being broken This is my new norm in your mind says if we're not broken That's a normal",
+      "visual_summary": "Scene 26: Dynamic Action Cutaway (Pan Right, High Energy)",
+      "camera_movement": "Pan Right",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 238.64,
+      "end": 245.25,
+      "transcript": "That's a normal We got to be broken So then your mind starts to get tougher and tougher and more comfortable. How how did you run on broken feet?",
+      "visual_summary": "Scene 27: Dynamic Action Cutaway (Tilt Down, High Energy)",
+      "camera_movement": "Tilt Down",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 245.25,
+      "end": 253.62,
+      "transcript": "So then your mind starts to get tougher and tougher and more comfortable. How how did you run on broken feet? Broken broken shins My mind knew this is how we operate. We're in we're in Navy still training. This is what we are",
+      "visual_summary": "Scene 28: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 253.62,
+      "end": 274.01,
+      "transcript": "My mind knew this is how we operate. We're in we're in Navy still training. This is what we are I became hell and That became my new norm. I gave myself no way out There was nothing outside these walls of hell Nothing I became I love God But for a short period of time I became the devil because that was hell I became I became the boss the owner the CEO of Navy still training that was my mind said",
+      "visual_summary": "Scene 29: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 274.01,
+      "end": 276.28,
+      "transcript": "I became I became the boss the owner the CEO of Navy still training that was my mind said",
+      "visual_summary": "Scene 30: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 276.28,
+      "end": 283.02,
+      "transcript": "I became I became the boss the owner the CEO of Navy still training that was my mind said And that's how you get through things You put yourself you immerse yourself wherever it is you become that",
+      "visual_summary": "Scene 31: Dynamic Action Cutaway (Tilt Down, High Energy)",
+      "camera_movement": "Tilt Down",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 283.02,
+      "end": 291.69,
+      "transcript": "You put yourself you immerse yourself wherever it is you become that You become that and give yourself no way out When I was 297 pounds and I was fat as hell trying to be a Navy seal",
+      "visual_summary": "Scene 32: Dynamic Action Cutaway (Tilt Up, High Energy)",
+      "camera_movement": "Tilt Up",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 291.69,
+      "end": 300.4,
+      "transcript": "When I was 297 pounds and I was fat as hell trying to be a Navy seal The scariest thing in the world to me even to this day Was that that could have been the rest of my life. I thought then I was trying hard",
+      "visual_summary": "Scene 33: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 300.4,
+      "end": 311.24,
+      "transcript": "Was that that could have been the rest of my life. I thought then I was trying hard That's the scariest thing in the world. I thought then 297 pound Working for equal labs praying for cockroaches making a thousand dollars a month",
+      "visual_summary": "Scene 34: Dynamic Action Cutaway (Tilt Up, High Energy)",
+      "camera_movement": "Tilt Up",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 311.24,
+      "end": 313.58,
+      "transcript": "Working for equal labs praying for cockroaches making a thousand dollars a month I thought that was me at my 100% potential",
+      "visual_summary": "Scene 35: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 313.58,
+      "end": 326.29,
+      "transcript": "I thought that was me at my 100% potential Coming to find out a Two years later, I wasn't even near that 106 pounds less",
+      "visual_summary": "Scene 36: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 326.29,
+      "end": 343.24,
+      "transcript": "Graduated Navy still training we don't do all these other things looking back on that that was me trying hard That's why people got understand what is in us We have no idea until we start trying hard And I mean really trying hard where you're obsessed with hey, this is my new norm",
+      "visual_summary": "Scene 37: Visual B-Roll (Tilt Down, Smooth Activity)",
+      "camera_movement": "Tilt Down",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 343.24,
+      "end": 349.45,
+      "transcript": "And I mean really trying hard where you're obsessed with hey, this is my new norm My new norm is that wow, this isn't always fun",
+      "visual_summary": "Scene 38: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 349.45,
+      "end": 355.89,
+      "transcript": "My new norm is that wow, this isn't always fun It's not always meant to be fun and that's when you know you're trying hard",
+      "visual_summary": "Scene 39: Visual B-Roll (Tilt Down, Smooth Activity)",
+      "camera_movement": "Tilt Down",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 355.89,
+      "end": 358.49,
+      "transcript": "People hear my story. I think it's guys to distant. I realize how the how the brain works",
+      "visual_summary": "Scene 40: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 358.49,
+      "end": 362.33,
+      "transcript": "People hear my story. I think it's guys to distant. I realize how the how the brain works",
+      "visual_summary": "Scene 41: Dynamic Action Cutaway (Tilt Up, High Energy)",
+      "camera_movement": "Tilt Up",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 362.33,
+      "end": 368.9,
+      "transcript": "People hear my story. I think it's guys to distant. I realize how the how the brain works I figured out how the brain works. I'm a scared kid and that's what gives me so much power",
+      "visual_summary": "Scene 42: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 368.9,
+      "end": 377.61,
+      "transcript": "I figured out how the brain works. I'm a scared kid and that's what gives me so much power I had no foundation and I built this off of just Researching the mind the feeling you get is basically",
+      "visual_summary": "Scene 43: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 377.61,
+      "end": 393.23,
+      "transcript": "Researching the mind the feeling you get is basically Invincibility you realize that you can't do it all the time When you need to do it. I know I can go to a place That I can live in and when you know that you can run",
+      "visual_summary": "Scene 44: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 393.23,
+      "end": 397.76,
+      "transcript": "That I can live in and when you know that you can run On broken legs and you can do certain things that a lot of people can do",
+      "visual_summary": "Scene 45: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 397.76,
+      "end": 406.57,
+      "transcript": "On broken legs and you can do certain things that a lot of people can do But they're not willing to do this power This sympathetic nervous system of fighter flight and you're fighting",
+      "visual_summary": "Scene 46: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 406.57,
+      "end": 415.32,
+      "transcript": "This sympathetic nervous system of fighter flight and you're fighting It gives you this charge of energy Over when you're sitting there at three thirty four o'clock in the morning",
+      "visual_summary": "Scene 47: Visual B-Roll (Zoom Out / Pull, Smooth Activity)",
+      "camera_movement": "Zoom Out / Pull",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Focal Push"
+      ]
+    },
+    {
+      "start": 415.32,
+      "end": 432.73,
+      "transcript": "Over when you're sitting there at three thirty four o'clock in the morning And you're duct tape in your feet up because they're broken And you're doing it by yourself and you're going through arguably one of the hardest trainings in the world And these guys most of them are healthy and you're going through it broken And you already had a disadvantage, but you're still there",
+      "visual_summary": "Scene 48: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 432.73,
+      "end": 441.27,
+      "transcript": "And you already had a disadvantage, but you're still there You can feed into that and tap into that for a lot of power But if you look at it wall, I'm broken, man. I'm not going to make it",
+      "visual_summary": "Scene 49: Dynamic Action Cutaway (Pan Right, High Energy)",
+      "camera_movement": "Pan Right",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 441.27,
+      "end": 445.71,
+      "transcript": "But if you look at it wall, I'm broken, man. I'm not going to make it",
+      "visual_summary": "Scene 50: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 445.71,
+      "end": 454.32,
+      "transcript": "But if you look at it wall, I'm broken, man. I'm not going to make it If you look at it as man, I'm broken and I'm still here Now fighting and I'm going to find a way to get through this Because I have no other place to go",
+      "visual_summary": "Scene 51: Visual B-Roll (Subtle Motion, Smooth Activity)",
+      "camera_movement": "Subtle Motion",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 454.32,
+      "end": 458.43,
+      "transcript": "Because I have no other place to go It gives you a lot of power When things start to suck really really bad",
+      "visual_summary": "Scene 52: Speaker Anchor / Talking Head (Pan Left, Low Motion)",
+      "camera_movement": "Pan Left",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 458.43,
+      "end": 471.24,
+      "transcript": "When things start to suck really really bad My brain in a lot of people's brain, they don't go to your dad beating you up Your brain says we get out of here, this is miserable",
+      "visual_summary": "Scene 53: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "speaker_anchor",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 471.24,
+      "end": 475.08,
+      "transcript": "Your brain says we get out of here, this is miserable So anger goes away a lot of times when you're suffering",
+      "visual_summary": "Scene 54: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 475.08,
+      "end": 488.25,
+      "transcript": "So anger goes away a lot of times when you're suffering Because your brain that says we got to run, we got to go So that anger is not popping up saying, oh, I'm going to show them I want to show those people, no, there has to be a much deeper",
+      "visual_summary": "Scene 55: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 488.25,
+      "end": 496.86,
+      "transcript": "I want to show those people, no, there has to be a much deeper Do I say deeper? It has to be down to mineral, mineral soil It has to be down to that nice mineral soil where nothing can burn",
+      "visual_summary": "Scene 56: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 496.86,
+      "end": 507.64,
+      "transcript": "It has to be down to that nice mineral soil where nothing can burn You can't burn dirt So it has to be down that low That literally is something in you that's at the core of your soil",
+      "visual_summary": "Scene 57: Dynamic Action Cutaway (Pan Right, High Energy)",
+      "camera_movement": "Pan Right",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 507.64,
+      "end": 521.32,
+      "transcript": "That literally is something in you that's at the core of your soil And but you don't find it unless you spend a lot of time with what you want to be in life You I can't get that to you, right? You can't get it to somebody",
+      "visual_summary": "Scene 58: Visual B-Roll (Static Locked Shot, Smooth Activity)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 521.32,
+      "end": 532.47,
+      "transcript": "When you find your true passion in life and my passion for me when like all want to be in that Navy seals or me round givish. I want to serve my country I cared about I want to be someone that I'm proud of",
+      "visual_summary": "Scene 59: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 532.47,
+      "end": 543.28,
+      "transcript": "I cared about I want to be someone that I'm proud of I want to look at myself in the mirror because I was so disappointed that accountability mirror I talk about I was so disappointed in what I saw every day",
+      "visual_summary": "Scene 60: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 543.28,
+      "end": 547.68,
+      "transcript": "I was so disappointed in what I saw every day I wanted everybody to love David Goggins",
+      "visual_summary": "Scene 61: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 547.68,
+      "end": 552.09,
+      "transcript": "And a lot of people did I didn't love myself",
+      "visual_summary": "Scene 62: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 552.09,
+      "end": 554.29,
+      "transcript": "And a lot of people did I didn't love myself But I knew a lot of us want to find peace first",
+      "visual_summary": "Scene 63: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "speaker_anchor",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 554.29,
+      "end": 558.59,
+      "transcript": "But I knew a lot of us want to find peace first So people say may you always talk about this suffering and pain is",
+      "visual_summary": "Scene 64: Visual B-Roll (Tilt Down, Smooth Activity)",
+      "camera_movement": "Tilt Down",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 558.59,
+      "end": 565.03,
+      "transcript": "So people say may you always talk about this suffering and pain is I'm at peace right now because I went through that You don't find peace first if you do marry Christmas more power to you",
+      "visual_summary": "Scene 65: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 565.03,
+      "end": 573.64,
+      "transcript": "You don't find peace first if you do marry Christmas more power to you More power to you. I found peace on the opposite end",
+      "visual_summary": "Scene 66: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 573.64,
+      "end": 586.52,
+      "transcript": "More power to you. I found peace on the opposite end Of finding myself and no one really finds himself without going through Trials tribulations suffering accountability and accountability",
+      "visual_summary": "Scene 67: Visual B-Roll (Zoom In / Push, Smooth Activity)",
+      "camera_movement": "Zoom In / Push",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Focal Push"
+      ]
+    },
+    {
+      "start": 586.52,
+      "end": 599.27,
+      "transcript": "Trials tribulations suffering accountability and accountability Is suffering? Be the countable every day for doing it right For yourself or the people next to you. It's measurable. It's hard. So, you know even the smallest details",
+      "visual_summary": "Scene 68: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 599.27,
+      "end": 615.05,
+      "transcript": "For yourself or the people next to you. It's measurable. It's hard. So, you know even the smallest details",
+      "visual_summary": "Scene 69: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    }
+  ],
+  "facts": [
+    "Your brain is the most powerful weapon in the world Once you put away your phones and your computers and all that we have nowadays, that's great We're up to date, you know, but your brain is the only thing you have when you're going through depression When you're going through hard times, you're going through death real life You can't Google that man You're alone You're alone, you may have a shrink, you're going to, you may have a best friend you're going to But there's 24 hours in the day where you're alone in this brain and your brain is talking to you in all kinds of ways And it wants to control you, and pull you in these different pockets If you can't control your own brain and your brain controls you, you're You've got to tell your brain where you want to go and how you want to go and how you want to get there You've got to control it",
+    "If not, it's over What existed for me was okay, man How am I going to make this work",
+    "And all I knew back then was hard work The only way anything gets accomplished I saw I heard her back in those days",
+    "I'm not getting how to I can't get this paragraph I can't remember what the This paragraph to pass this test to get in the military Read again Still not getting it",
+    "Read again, but if not getting it right out and that's how I started learning Okay, well, I can't I got to write up everything I do and then write out again And write out again, and guess what happened",
+    "I Realize if I keep going back and going back and going back and till the Just becomes your mind would save Okay, we're gonna figure it out Because he is not going to stop It's not like I'm gonna try one more time",
+    "No, I'm gonna it's just like long clunk goes off We're going back",
+    "I can't read right we're going back"
+  ],
+  "cached": false
+}

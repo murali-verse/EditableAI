@@ -1,0 +1,184 @@
+{
+  "clip_id": "clip_004",
+  "filename": "upload_004_vid_0e89ab_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4",
+  "duration": 126.899,
+  "summary": "upload_004_vid_0e89ab_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4: 127.0s, 14 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.67,
+      "transcript": "And that's what gives me so much power.",
+      "visual_summary": "Scene 1: Dynamic Action Cutaway (Tilt Up, High Energy)",
+      "camera_movement": "Tilt Up",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 0.67,
+      "end": 9.37,
+      "transcript": "And that's what gives me so much power. I had no foundation and I built this off of just researching the mind.",
+      "visual_summary": "Scene 2: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 9.37,
+      "end": 24.97,
+      "transcript": "The feeling you get is basically invincibility. You realize that you can't do it all the time. When you need to do it, I know I can go to a place that I can live in and when you know",
+      "visual_summary": "Scene 3: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 24.97,
+      "end": 29.53,
+      "transcript": "When you need to do it, I know I can go to a place that I can live in and when you know that you can run on broken legs and you can do certain things that a lot of people can",
+      "visual_summary": "Scene 4: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 29.53,
+      "end": 38.33,
+      "transcript": "that you can run on broken legs and you can do certain things that a lot of people can do, but they're not willing to do this power, this sympathetic nervous system of",
+      "visual_summary": "Scene 5: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 38.33,
+      "end": 47.07,
+      "transcript": "do, but they're not willing to do this power, this sympathetic nervous system of fight or flight and you're fighting. It gives you this charge of energy of when you're sitting there at 3.34 o'clock in",
+      "visual_summary": "Scene 6: Visual B-Roll (Zoom Out / Pull, Smooth Activity)",
+      "camera_movement": "Zoom Out / Pull",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Focal Push"
+      ]
+    },
+    {
+      "start": 47.07,
+      "end": 64.5,
+      "transcript": "It gives you this charge of energy of when you're sitting there at 3.34 o'clock in the morning and you're duct taped and you're feet up because they're broken and you're doing it by yourself and you're going to arguably want to hardest training in the world. And these guys, most of them are healthy and you're going through it broken and you already",
+      "visual_summary": "Scene 7: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Bright Interior / Outdoor Scene",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 64.5,
+      "end": 73.03,
+      "transcript": "And these guys, most of them are healthy and you're going through it broken and you already added disadvantage, but you're still there. You can feed into that and tap into that for a lot of power. But if you look at it while I'm broken, man, I'm not going to make it.",
+      "visual_summary": "Scene 8: Dynamic Action Cutaway (Pan Right, High Energy)",
+      "camera_movement": "Pan Right",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 73.03,
+      "end": 77.47,
+      "transcript": "But if you look at it while I'm broken, man, I'm not going to make it.",
+      "visual_summary": "Scene 9: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 77.47,
+      "end": 86.07,
+      "transcript": "But if you look at it while I'm broken, man, I'm not going to make it. If you look at it as man, I'm broken and I'm still here and I'm fighting and I'm going to find a way to get through this because I have no other place to go.",
+      "visual_summary": "Scene 10: Visual B-Roll (Subtle Motion, Smooth Activity)",
+      "camera_movement": "Subtle Motion",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 86.07,
+      "end": 90.17,
+      "transcript": "going to find a way to get through this because I have no other place to go. It gives you a lot of power.",
+      "visual_summary": "Scene 11: Speaker Anchor / Talking Head (Pan Left, Low Motion)",
+      "camera_movement": "Pan Left",
+      "story_role": "static_pause",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 90.17,
+      "end": 103.0,
+      "transcript": "When things start to suck really, really bad, my brain and a lot of people's brain, they don't go to your dad beating you up. Your brain says, we're out here. This is miserable.",
+      "visual_summary": "Scene 12: Speaker Anchor / Talking Head (Static Locked Shot, Low Motion)",
+      "camera_movement": "Static Locked Shot",
+      "story_role": "speaker_anchor",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 103.0,
+      "end": 120.0,
+      "transcript": "This is miserable. So anger goes away a lot of times when you're suffering because your brain that says, we got to run, we got to go. So that anger is not popping up saying, oh, I'm going to show them. I want to show those people. No. There has to be a much deeper.",
+      "visual_summary": "Scene 13: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 120.0,
+      "end": 126.9,
+      "transcript": "There has to be a much deeper. Did I say deeper? It has to be down to mineral, mineral soil.",
+      "visual_summary": "Scene 14: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    }
+  ],
+  "facts": [
+    "And that's what gives me so much power",
+    "I had no foundation and I built this off of just researching the mind",
+    "The feeling you get is basically invincibility",
+    "When you need to do it, I know I can go to a place that I can live in and when you know that you can run on broken legs and you can do certain things that a lot of people can do, but they're not willing to do this power, this sympathetic nervous system of fight or flight and you're fighting",
+    "It gives you this charge of energy of when you're sitting there at 3",
+    "34 o'clock in the morning and you're duct taped and you're feet up because they're broken and you're doing it by yourself and you're going to arguably want to hardest training in the world",
+    "And these guys, most of them are healthy and you're going through it broken and you already added disadvantage, but you're still there",
+    "You can feed into that and tap into that for a lot of power"
+  ],
+  "cached": false
+}

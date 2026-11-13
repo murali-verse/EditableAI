@@ -1,0 +1,16 @@
+{
+  "status": "passed_with_review",
+  "total_proposed_segments": 4,
+  "accepted_segments": 4,
+  "review_item_count": 1,
+  "review_items": [
+    {
+      "clip_id": "clip_004",
+      "start": 0.0,
+      "end": 0.67,
+      "reason": "Very short segment (0.67s) in upload_004_vid_0e89ab_WhatsApp_Video_2026-10-29_at_8.05.56_PM.mp4; flagged for duration review.",
+      "story_role": "action_broll"
+    }
+  ],
+  "warnings": []
+}

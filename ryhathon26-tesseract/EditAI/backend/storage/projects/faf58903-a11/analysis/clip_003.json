@@ -1,0 +1,188 @@
+{
+  "clip_id": "clip_003",
+  "filename": "upload_003_vid_c7ddf0_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4",
+  "duration": 121.634,
+  "summary": "upload_003_vid_c7ddf0_WhatsApp_Video_2026-10-29_at_8.04.29_PM.mp4: 121.7s, 15 analyzed segments",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.37,
+      "transcript": "Broken feet, broken, broken shins. My mind knew this is how we operate. We're in Navy still training.",
+      "visual_summary": "Scene 1: Dynamic Action Cutaway (Handheld Dynamic, High Energy)",
+      "camera_movement": "Handheld Dynamic",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": []
+    },
+    {
+      "start": 7.37,
+      "end": 27.77,
+      "transcript": "We're in Navy still training. This is where I became hell, and that became my new norm. I gave myself no way out. There was nothing outside these walls of hell. I became, I loved God, but for a short period of time, I became the devil, because that was hell. I became, I became the boss, the owner, the CEO",
+      "visual_summary": "Scene 2: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 27.77,
+      "end": 30.03,
+      "transcript": "I became, I became the boss, the owner, the CEO of Navy still training. That was my mindset, and that's how you get through things.",
+      "visual_summary": "Scene 3: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 30.03,
+      "end": 36.77,
+      "transcript": "That was my mindset, and that's how you get through things. You put yourself, you immerse yourself in wherever it is,",
+      "visual_summary": "Scene 4: Dynamic Action Cutaway (Tilt Down, High Energy)",
+      "camera_movement": "Tilt Down",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 36.77,
+      "end": 45.47,
+      "transcript": "you become that, you become that, and give yourself no way out. When I was 297 pounds, and I was fat as hell,",
+      "visual_summary": "Scene 5: Dynamic Action Cutaway (Tilt Up, High Energy)",
+      "camera_movement": "Tilt Up",
+      "story_role": "action_broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 45.47,
+      "end": 54.17,
+      "transcript": "When I was 297 pounds, and I was fat as hell, trying to be a Navy seal, the scariest thing in the world to me even to this day, was that that could have been the rest of my life.",
+      "visual_summary": "Scene 6: Visual B-Roll (Pan Left, Smooth Activity)",
+      "camera_movement": "Pan Left",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 54.17,
+      "end": 65.0,
+      "transcript": "I thought then, I was trying hard. That's the scariest thing in the world. I thought then, 297 pounds, working for equal labs, praying for cockroaches, making $1,000 a month.",
+      "visual_summary": "Scene 7: Dynamic Action Cutaway (Pan Right, High Energy)",
+      "camera_movement": "Pan Right",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 65.0,
+      "end": 67.33,
+      "transcript": "praying for cockroaches, making $1,000 a month.",
+      "visual_summary": "Scene 8: Visual B-Roll (Subtle Motion, Smooth Activity)",
+      "camera_movement": "Subtle Motion",
+      "story_role": "broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 67.33,
+      "end": 80.07,
+      "transcript": "I thought that was me at my 100% potential. Coming to find out, a few years later, I wasn't even near that, 106 pounds less, graduate Navy still training.",
+      "visual_summary": "Scene 9: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 80.07,
+      "end": 97.0,
+      "transcript": "near that, 106 pounds less, graduate Navy still training. We don't do all these other things. Looking back on that, that was me trying hard. That's why people got understand, what is in us? We have no idea until we start trying hard. And I mean really trying hard where you're obsessed with,",
+      "visual_summary": "Scene 10: Visual B-Roll (Tilt Down, Smooth Activity)",
+      "camera_movement": "Tilt Down",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 97.0,
+      "end": 103.2,
+      "transcript": "And I mean really trying hard where you're obsessed with, hey, this is my new norm. My new norm is that, wow, this isn't always fun.",
+      "visual_summary": "Scene 11: Visual B-Roll (Pan Right, Smooth Activity)",
+      "camera_movement": "Pan Right",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette",
+        "Horizontal Tracking"
+      ]
+    },
+    {
+      "start": 103.2,
+      "end": 109.63,
+      "transcript": "My new norm is that, wow, this isn't always fun. It's not always meant to be fun. And that's when you know you're trying hard.",
+      "visual_summary": "Scene 12: Visual B-Roll (Tilt Down, Smooth Activity)",
+      "camera_movement": "Tilt Down",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 109.63,
+      "end": 112.27,
+      "transcript": "People hear my story and think, it's guys sadistic.",
+      "visual_summary": "Scene 13: Visual B-Roll (Tilt Up, Smooth Activity)",
+      "camera_movement": "Tilt Up",
+      "story_role": "broll",
+      "quality": 0.98,
+      "detected_objects": []
+    },
+    {
+      "start": 112.27,
+      "end": 116.1,
+      "transcript": "People hear my story and think, it's guys sadistic. I realize how the brain works.",
+      "visual_summary": "Scene 14: Dynamic Action Cutaway (Tilt Up, High Energy)",
+      "camera_movement": "Tilt Up",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Low Light / Silhouette"
+      ]
+    },
+    {
+      "start": 116.1,
+      "end": 121.63,
+      "transcript": "I realize how the brain works. I figured out how the brain works. I'm a scared.",
+      "visual_summary": "Scene 15: Dynamic Action Cutaway (Pan Left, High Energy)",
+      "camera_movement": "Pan Left",
+      "story_role": "action_broll",
+      "quality": 0.9,
+      "detected_objects": [
+        "Horizontal Tracking"
+      ]
+    }
+  ],
+  "facts": [
+    "My mind knew this is how we operate",
+    "We're in Navy still training",
+    "This is where I became hell, and that became my new norm",
+    "You put yourself, you immerse yourself in wherever it is, you become that, you become that, and give yourself no way out",
+    "When I was 297 pounds, and I was fat as hell, trying to be a Navy seal, the scariest thing in the world to me even to this day, was that that could have been the rest of my life",
+    "I thought then, 297 pounds, working for equal labs, praying for cockroaches, making $1,000 a month",
+    "I thought that was me at my 100% potential",
+    "Coming to find out, a few years later, I wasn't even near that, 106 pounds less, graduate Navy still training"
+  ],
+  "cached": false
+}
